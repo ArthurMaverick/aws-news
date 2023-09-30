@@ -2,7 +2,9 @@
 
 ## Overview
 
-The AWS News Update Service for Discord is a tool that allows you to keep members of your Discord server informed about the latest news, announcements, and updates from Amazon Web Services (AWS). It utilizes a Discord webhook and a binary named "awsnews" to automate the update process.
+![](https://github.com/ArthurMaverick/aws-news/blob/421f88d0f0b150ffc04ef1c88509c8ce66a15b0b/docs/Diagram.png)
+
+The AWS News Notification Service for Discord is a tool that allows you to keep members of your Discord server informed about the latest news, announcements, and updates from Amazon Web Services (AWS). It utilizes a Discord webhook and a binary named "awsnews" to automate the update process.
 
 ## Key Features
 
