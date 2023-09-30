@@ -1,0 +1,8 @@
+terraform:
+  bucket: "BUCKET_NAME"
+  region: "REGION"
+  key: "OBJECT_KEY"
+discord:
+  webhook: "YOUR DISCORD WEBHOOK URL HERE"
+  avatar_url: "https://appmaster.io/cdn-cgi/image/width=1024,quality=83,format=auto/api/_files/ZC5TGYLhKnWGwvWUFtVyk7/download/"
+  color: "16753920"
